@@ -187,8 +187,8 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  margin: 7px 0;
-  max-height: 26px;
+  margin: 4px 0;
+  max-height: 40px;
 }
 
 .main-pages {
@@ -203,19 +203,20 @@ h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: #f5f8fd url("../img/intro-bg.jpg") center top no-repeat;
+  background: #ffffff url("../CSS/Images/christian-battaglia-BckPaTv1RZ8-unsplash.jpg") center top no-repeat;
   background-size: cover;
+  background-position: 0px 100px;
 }
 
 #intro .intro-info h2 {
-  color: #413e66;
+  color: #12436f;
   margin-bottom: 40px;
   font-size: 48px;
   font-weight: 700;
 }
 
 #intro .intro-info h2 span {
-  color: #1bb1dc;
+  color: #bda067;
 }
 
 #intro .intro-info .btn-get-started,
@@ -266,7 +267,7 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #413e66;
+  color: #12436f;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -278,7 +279,7 @@ h6 {
 .main-nav a:hover,
 .main-nav .active > a,
 .main-nav li:hover > a {
-  color: #1bb1dc;
+  color: #bca464;
   text-decoration: none;
 }
 
